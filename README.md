@@ -15,7 +15,9 @@
     <li>⚡ Fun fact: Passionate self-learner</li>
     <li>💬 Ask me about <strong>Python</strong>.</li>
     <li>👨‍💻 All of my projects are available: <a href="https://github.com/CodeByMan?tab=repositories">Github/CodeByMan</a>.</li>
-    <li>🌈 Download My Resume : <a href="https://www.canva.com/design/DAGYh8qVcNM/YBBvlyibw0C3rkBvMik0rw/view?utm_content=DAGYh8qVcNM&utm_campaign=designshare&utm_medium=link&utm_source=editor">Resume</a></li>
+    <li>🌈 Download My Resume : <a href="https://www.canva.com/design/DAGmm14zCuo/aQRlIZQVy6qORQ9u430aJw/view?utm_content=DAGmm14zCuo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4d7238dab2
+![image](https://github.com/user-attachments/assets/f58f9a1f-fb4e-4203-a92a-43f5aebe3444)
+">Resume</a></li>
     <li>📫 How to reach me: <a href="mailto:muhammad.ali.nawaz05@gmail.com">muhammad.ali.nawaz05@gmail.com</a>.</li>
 </ul>
   
