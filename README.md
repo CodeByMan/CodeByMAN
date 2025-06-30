@@ -15,7 +15,7 @@
     <li>⚡ Fun fact: I enjoy uncovering insights hidden in messy data.</li>
     <li>💬 Ask me about <strong>SQL, Power BI, Excel</strong>.</li>
     <li>👨‍💻 All of my data projects are available at: <a href="https://github.com/CodeByMan?tab=repositories">Github/CodeByMan</a>.</li>
-    <li>🌈 Download My Resume: <a href="https://www.canva.com/design/DAGmm14zCuo/aQRlIZQVy6qORQ9u430aJw/view?utm_content=DAGmm14zCuo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4d7238dab2">Resume</a></li>
+    <li>🌈 Download My Resume: <a href="https://www.canva.com/design/DAGr01UZ2Cg/o0ES9XkfsvuWzKi-lFQ07A/edit?utm_content=DAGr01UZ2Cg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Resume</a></li>
     <li>📫 How to reach me: <a href="mailto:muhammad.ali.nawaz05@gmail.com">muhammad.ali.nawaz05@gmail.com</a></li>
 </ul>
 <!-- Intro End -->
